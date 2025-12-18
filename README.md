@@ -49,13 +49,9 @@ The project requires Python and the following libraries:
 * `scikit-image`
 
 ### Running the Project
-1.  Clone the repository:
-    ```bash
-    git clone [https://github.com/YOUR_USERNAME/REPO_NAME.git](https://github.com/YOUR_USERNAME/REPO_NAME.git)
-    ```
-2.  Open the Jupyter Notebook (`.ipynb` file) in **Google Colab** or Jupyter Lab.
-3.  Upload an image of your choice (e.g., `my_photo.jpg`).
-4.  Run all cells to see the reconstruction process.
+1.  Open the Jupyter Notebook (`.ipynb` file) in **Google Colab** or Jupyter Lab.
+2.  Upload an image of your choice (e.g., `my_photo.jpg`).
+3.  Run all cells to see the reconstruction process.
 
 ## 📊 Evaluation
 The project includes an automatic evaluation metric (**Neighbor Accuracy**) that calculates the percentage of correctly identified neighbor pairs compared to the ground truth.
