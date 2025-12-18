@@ -61,5 +61,4 @@ The project requires Python and the following libraries:
 The project includes an automatic evaluation metric (**Neighbor Accuracy**) that calculates the percentage of correctly identified neighbor pairs compared to the ground truth.
 
 ---
-*Created as part of the Computer Vision Course.*
-*University of Piraeus*
+*Developed for the University of Piraeus* 
